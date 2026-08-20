@@ -102,9 +102,7 @@ BCA Graduate | Data Analytics Enthusiast
 
 ![Attrition by Job Role](./Attrition_by_job_role.png)
 
-### 3. Attrition by Years at Company
 
-![Attrition by Years at Company](./Attrition_by_years_at_company.png)
 
 #Tableau #HRAnalytics #DataAnalytics #DataVisualization #BusinessIntelligence #Dashboard #GitHub
 
