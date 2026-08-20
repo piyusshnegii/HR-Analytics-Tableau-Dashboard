@@ -92,9 +92,19 @@ The dashboard provides a visual overview of employee attrition and highlights ho
 **Piyush Negi**
 
 BCA Graduate | Data Analytics Enthusiast
-DASHBOARD.png
-Attrition-by-job-role.png
-Attrition-by-years-at-company.png
+## Dashboard Screenshots
+
+### 1. HR Analytics Dashboard
+
+![HR Analytics Dashboard](./DASHBOARD.png)
+
+### 2. Attrition by Job Role
+
+![Attrition by Job Role](./Attrition-by-job-role.png)
+
+### 3. Attrition by Years at Company
+
+![Attrition by Years at Company](./Attrition-by-years-at-company.png)
 
 #Tableau #HRAnalytics #DataAnalytics #DataVisualization #BusinessIntelligence #Dashboard #GitHub
 
